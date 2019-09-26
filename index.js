@@ -1,5 +1,6 @@
 let recipes = {
-  
+  1 : '3 eggs',
+  2 : 'flour'
 };
 
 function updateObjectWithKeyAndValue(object, key, value){
